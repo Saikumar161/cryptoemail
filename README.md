@@ -39,8 +39,3 @@ Crypto Email System is a Java web application that provides users with the abili
 - **Authentication**: Use strong authentication mechanisms to verify user identities.
 - **Authorization**: Implement role-based access control to restrict unauthorized access to sensitive features.
 
-## Contributing
-Contributions to the Crypto Email System are welcome! Please fork the repository, make your changes, and submit a pull request for review.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
