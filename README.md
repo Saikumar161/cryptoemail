@@ -20,7 +20,7 @@ Crypto Email System is a Java web application that provides users with the abili
 - **Bootstrap**: Frontend framework for designing responsive and mobile-first websites.
 
 ## Setup Instructions
-1. **Download WAR File**: Download the WAR file from the [releases](https://github.com/your_username/Crypto-Email-System/releases) section of the GitHub repository.
+1. **Download WAR File**: Download the WAR file from the GitHub repository.
 2. **Deploy on Tomcat Server**: Deploy the WAR file on your Tomcat server by placing it in the `webapps` directory of Tomcat.
 3. **Start Tomcat Server**: Start the Tomcat server.
 4. **Access the Application**: Open a web browser and navigate to `http://localhost:8080/Crypto-Email-System` (or the configured port).
